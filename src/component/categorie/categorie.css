@@ -1,0 +1,13 @@
+.category-container {
+    display: flex;
+    justify-content: center;
+    }
+    
+    .category {
+    width: 25%;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    }
